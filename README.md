@@ -1,6 +1,12 @@
 # Liquid
 
-https://github.com/user-attachments/assets/243af711-10a8-4796-80de-a8849f723e27
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/243af711-10a8-4796-80de-a8849f723e27" 
+         controls 
+         style="max-width: 100%; border-radius: 12px;">
+  </video>
+</div>
+
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.fletchmckee.liquid/liquid)](https://search.maven.org/search?q=g:io.github.fletchmckee.liquid)
 ![Build status](https://github.com/fletchmckee/liquid/actions/workflows/build.yml/badge.svg)
