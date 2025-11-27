@@ -1,5 +1,7 @@
 # Liquid
 
+[![Maven Central] https://github.com/user-attachments/assets/243af711-10a8-4796-80de-a8849f723e27
+
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.fletchmckee.liquid/liquid)](https://search.maven.org/search?q=g:io.github.fletchmckee.liquid)
 ![Build status](https://github.com/fletchmckee/liquid/actions/workflows/build.yml/badge.svg)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
